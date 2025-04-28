@@ -1,8 +1,6 @@
 # Hey, I'm Marco! 👋
 
-Welcome to my GitHub profile!
-
-**My focus lies in the full lifecycle of data science, from analysis to deployment, and I love bringing models to life through unique web applications that incorporate AI.**
+**My focus lies in the full lifecycle of data science, from analysis to deployment, and I love bringing models to life through web applications that incorporate AI.**
 
 ---
 
@@ -49,7 +47,3 @@ I build projects primarily with Python and leverage a variety of tools across th
 ## 📫 Get In Touch
 
 * **Email:** reivelrei@gmail.com
-
----
-
-✨ *Thanks for visiting!* ✨
